@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "title": "Campaign A",
+      "description": "Demo Campaign",
+      "imgLink": "https://img.freepik.com/free-vector/business-data-analysis-hand-holding-megaphone-computer-screen-smart-marketing-digital-payment-flat-vector-illustration-internet-communication-concept-banner-landing-web-page_74855-24348.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Campaign B",
+      "description": "Demo Campaign B",
+      "imgLink": "https://cdn2.vectorstock.com/i/1000x1000/69/16/digital-marketing-campaign-social-network-vector-14196916.jpg"
+    }
+]
